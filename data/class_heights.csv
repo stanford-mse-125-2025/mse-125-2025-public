@@ -1,4 +1,4 @@
-"Timestamp","Gender","Father's Height","Mother's Height","Your Height"
+"Timestamp","Gender","Father_Height","Mother_Height","Child_Height"
 "2025/05/08 3:30:46 PM MDT","Male","73","70","74"
 "2025/05/08 3:30:47 PM MDT","Male","67","60","65"
 "2025/05/08 3:30:47 PM MDT","Female","76","72","72"
